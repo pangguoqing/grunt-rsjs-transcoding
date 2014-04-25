@@ -1,7 +1,7 @@
 {
   "name": "grunt-rsjs-transcoding",
   "description": "for transcoding rs module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/guoqingpang/grunt-rsjs-transcoding",
   "author": {
     "name": "pangguoqing",
